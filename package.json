@@ -10,8 +10,8 @@
   "keywords": [
     "gmailapi"
   ],
-  "author": "Sahil Sayyad",
-  "license": "ISC",
+  "author": "Vishal Goel",
+  "license": "",
   "dependencies": {
     "googleapis": "^105.0.0",
     "nodemon": "^2.0.22"
